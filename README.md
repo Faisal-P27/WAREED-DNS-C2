@@ -22,7 +22,7 @@ It has been developed using three programming languages:
  2. Wareed Team server in Golang
  3. Ather Client GUI in C++
  
- Explain names:
+ Names explain :
  
 **Hams (همس)** means "whisper" in Arabic
 
