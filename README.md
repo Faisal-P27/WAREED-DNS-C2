@@ -204,11 +204,11 @@ While I have no immediate plans to continue investing time in the Wareed project
 If you have development skills and are interested in contributing to Wareed, here are a couple of opportunities:
 
 1.  **Develop a Stager Payload Using DNS**: There's an awesome project by [@C5pider](https://twitter.com/C5pider) that provides a shellcode template which is a great starting point. Check out [Stardust](https://github.com/Cracked5pider/Stardust) on GitHub.
-3. **Add a COFF Loader and Integrate with**:  Integrating a COFF (Common Object File Format) loader into Wareed framework can significantly enhance its capabilities by enabling dynamic loading and execution of binary modules, thus increasing operational flexibility. For developers looking to implement this feature, resources like Sector7 offer valuable insights on COFF loader functionality, and the open-source project [CoffeeLdr](https://github.com/Cracked5pider/CoffeeLdr) by [@C5pider](https://twitter.com/C5pider) provides a practical implementation example.
+3. **Add a COFF Loader and Integration**:  Integrating a COFF (Common Object File Format) loader into Wareed framework can significantly enhance its capabilities by enabling dynamic loading and execution of binary modules, thus increasing operational flexibility. For developers looking to implement this feature, resources like Sector7 offer valuable insights on COFF loader functionality, and the open-source project [CoffeeLdr](https://github.com/Cracked5pider/CoffeeLdr) by [@C5pider](https://twitter.com/C5pider) provides a practical implementation example.
 
 
 
-## Spatial Thanks 
+## Special Thanks 
 This work could not have been accomplished without the contribution of several outstanding open-source projects:
 
 **[Havoc](https://github.com/HavocFramework/Havoc)** by -   [@C5pider](https://twitter.com/C5pider)
