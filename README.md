@@ -74,7 +74,7 @@ also it will checks the compilation status of the Agent. If successful, it confi
  - **sleep**: The base delay between task requests.
  - **jitter**: A percentage that adds randomness to the sleep intervals to disguise traffic patterns.
  - **lookup_delay**: The delay before performing a DNS lookup to pace DNS queries and avoid detection.
- - **default_dns_server**: The DNS server specified for use by the Agent if local DNS dose not respond. 
+ - **default_dns_server (disabled)**: The DNS server specified for use by the Agent if local DNS dose not respond. 
  > **magic_value:** lenath must equal to **3**.
 
 
@@ -198,6 +198,12 @@ To interact with a session, simply right-click on the desired session and select
 		// You will receive the shellcode in [unsigned char *ShellCode] and shellcode size in [nt size]
 		// and the process ID in [int ProcessID].
      }
+### Clean Database
+
+To clean the database, simply execute the following command in your terminal:
+
+    ./Run clean
+
 ## Further action
 While I have no immediate plans to continue investing time in the Wareed project, it has been an incredible learning journey, and I thoroughly enjoyed it. I am excited to announce that I am planning to launch a new major project, **THAWD BAS**. For more information, please visit [Thawd.io](https://thawd.io/).
 
