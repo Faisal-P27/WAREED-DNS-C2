@@ -1,0 +1,11 @@
+{
+    "magic_value": "cdn",
+    "domains": [
+        "2.example.net"     
+    ],
+    "listener_port": "111",
+    "sleep": 5,
+    "jitter": 50,
+    "lookup_delay": 5,
+    "default_dns_server": "1.1.1.1"
+}

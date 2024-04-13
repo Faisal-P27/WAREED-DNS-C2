@@ -1,0 +1,24 @@
+{
+	"BUILD_DIR" : "/home/lab/Desktop/share/C2/Wareed_DNS_C2/Wareed_DNS_C2/Client/Ather_autogen",
+	"CMAKE_BINARY_DIR" : "/home/lab/Desktop/share/C2/Wareed_DNS_C2/Wareed_DNS_C2/Client",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/lab/Desktop/share/C2/Wareed_DNS_C2/Wareed_DNS_C2/Client",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/lab/Desktop/share/C2/Wareed_DNS_C2/Wareed_DNS_C2/Client",
+	"CMAKE_SOURCE_DIR" : "/home/lab/Desktop/share/C2/Wareed_DNS_C2/Wareed_DNS_C2/Client",
+	"INCLUDE_DIR" : "/home/lab/Desktop/share/C2/Wareed_DNS_C2/Wareed_DNS_C2/Client/Ather_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/lab/Desktop/share/C2/Wareed_DNS_C2/Wareed_DNS_C2/Client/Image/LoginBackGround.jpg",
+		"/home/lab/Desktop/share/C2/Wareed_DNS_C2/Wareed_DNS_C2/Client/Image/WareedIcon.png",
+		"/home/lab/Desktop/share/C2/Wareed_DNS_C2/Wareed_DNS_C2/Client/Image/icon/pngwing.com.png"
+	],
+	"LOCK_FILE" : "/home/lab/Desktop/share/C2/Wareed_DNS_C2/Wareed_DNS_C2/Client/CMakeFiles/Ather_autogen.dir/AutoRcc_rc_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "rc" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_rc.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/lab/Desktop/share/C2/Wareed_DNS_C2/Wareed_DNS_C2/Client/CMakeFiles/Ather_autogen.dir/AutoRcc_rc_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/lab/Desktop/share/C2/Wareed_DNS_C2/Wareed_DNS_C2/Client/rc.qrc",
+	"VERBOSITY" : 0
+}

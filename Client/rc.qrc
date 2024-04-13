@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/LoginBackGround.jpg</file>
+        <file>Image/WareedIcon.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>Image/icon/pngwing.com.png</file>
+    </qresource>
+</RCC>

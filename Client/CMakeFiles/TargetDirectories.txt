@@ -1,0 +1,4 @@
+/home/lab/Desktop/share/C2/Wareed_DNS_C2/Wareed_DNS_C2/Client/CMakeFiles/Ather.dir
+/home/lab/Desktop/share/C2/Wareed_DNS_C2/Wareed_DNS_C2/Client/CMakeFiles/edit_cache.dir
+/home/lab/Desktop/share/C2/Wareed_DNS_C2/Wareed_DNS_C2/Client/CMakeFiles/rebuild_cache.dir
+/home/lab/Desktop/share/C2/Wareed_DNS_C2/Wareed_DNS_C2/Client/CMakeFiles/Ather_autogen.dir
