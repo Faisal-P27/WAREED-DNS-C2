@@ -195,7 +195,7 @@ To interact with a session, simply right-click on the desired session and select
 
     int Inject(unsigned char *ShellCode, int size, int ProcessID) {
 		// Add your injection technique here.
-		// You will receive the shellcode in [unsigned char *ShellCode]
+		// You will receive the shellcode in [unsigned char *ShellCode] and shellcode size in [nt size]
 		// and the process ID in [int ProcessID].
      }
 ## Further action
