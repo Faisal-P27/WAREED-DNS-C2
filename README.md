@@ -22,11 +22,11 @@ It has been developed using three programming languages:
  2. Wareed Team server in Golang
  3. Ather Client GUI in C++
  
- Names explain :
+ Names explanation:
  
 **Hams (همس)** means "whisper" in Arabic
 
-**Wareed (وريد)** translates to "vein" in Arabic
+**Wareed (وريد)** means "vein" in Arabic
 
 **Ather (أثر)** means "trace" in Arabic
 
