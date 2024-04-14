@@ -77,8 +77,8 @@ also it will checks the compilation status of the Agent. If successful, it confi
  - **listener_port**: The port number on which the DNS Team server listens for incoming connections.
  - **sleep**: The base delay between task requests.
  - **jitter**: A percentage that adds randomness to the sleep intervals to disguise traffic patterns.
- - **lookup_delay**: The delay before performing a DNS lookup to pace DNS queries and avoid detection.
- - **default_dns_server (disabled)**: The DNS server specified for use by the Agent if local DNS dose not respond. 
+ - **lookup_delay (disabled)**: The delay before performing a DNS lookup to pace DNS queries and avoid detection.
+ - **default_dns_server **: The DNS server specified for use by the Agent if local DNS dose not respond. 
  > **magic_value:** lenath must equal to **3**.
 
 
