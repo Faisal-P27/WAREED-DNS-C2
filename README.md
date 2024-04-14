@@ -223,6 +223,8 @@ This work could not have been accomplished without the contribution of several o
 
 **[Havoc](https://github.com/HavocFramework/Havoc)** by -   [@C5pider](https://twitter.com/C5pider)
 
+**[DNSStager](https://github.com/mhaskar/DNSStager)** by -   [@mohammadaskar2](https://twitter.com/mohammadaskar2)
+
 **[Boomerang](https://github.com/paranoidninja/Boomerang)** by -   [@NinjaParanoid](https://twitter.com/NinjaParanoid)
 
 **[Socks5Server](https://github.com/earthquake/Socks5Server)**  by [earthquake](https://github.com/earthquake)
