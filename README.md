@@ -4,7 +4,7 @@
 
 WAREED is a Command and Control (C2) that utilizes the DNS protocol for secure communications between the server and the target. Designed to minimize communication and limit data exchange, it is intended to be a first-stage C2 to persist in machines that don't have access to the internet via HTTP/HTTPS, but where DNS is allowed.
 
-developed by :   [@Faisal_P27](https://twitter.com/Faisal_P27) 
+developed by :   [@Faisal_P27](https://twitter.com/Fsalabduljabbar) 
 
 # How it works
 ![enter image description here](https://i.ibb.co/GstYxfN/Capture12.png)
